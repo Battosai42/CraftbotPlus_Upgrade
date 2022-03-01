@@ -1,2 +1,5 @@
 # LibreOffice
 *.ods#
+
+# KiCad
+Upgrade_Parts/CB_Toolhead_PCB/CB_Toolhead_PCB-backups
