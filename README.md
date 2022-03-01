@@ -8,7 +8,7 @@ The first variant of the Craftbot Plus (The one still using the drag chains) is 
 The goal of the modifications is a high quality print (not a super fast one) and making the printer easier and more convenient to use. The following requirements list the intended upgrades and the state of implementation:
 
 ## Hardware
-- [X] Duet Controller Board (Duet 3 Mini 5+)
+- [X] Duet Controller Board with external WiFi Antenna (Duet3 Mini 5+)
 - [X] Filament Runout Sensor
 - [ ] Bed Probe (Duet3D IR Probe)
 - [ ] Toolhead PCB (for easier modifications and chamber temperature sensor)
