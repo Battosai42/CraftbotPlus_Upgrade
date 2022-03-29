@@ -10,14 +10,14 @@ The goal of the modifications is a high quality print (not a super fast one) and
 ## Hardware
 - [X] Duet Controller Board with external WiFi Antenna (Duet3 Mini 5+)
 - [X] Filament Runout Sensor
-- [ ] Bed Probe (Duet3D IR Probe)
+- [X] Bed Probe (Duet3D IR Probe)
 - [ ] Toolhead PCB (for easier modifications and chamber temperature sensor)
 - [ ] Accelerometer (LIS3DSH)
 
 ## Software
 - [X] Reprap Firmware (v 3.3)
 - [X] Pressure Advance
-- [ ] Mesh bed compensation
+- [X] Mesh bed compensation
 - [ ] Input Shaping
 
 ## General
