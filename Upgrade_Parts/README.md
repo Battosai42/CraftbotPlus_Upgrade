@@ -11,3 +11,11 @@ Slicer Settings:
 - 4 perimeters @0.4mm (1.6mm)
 - 8 top/bottom layers @0.2mm (1.6mm)
 - 40% infill
+
+## External Mods
+- [CraftBot Airflow Improvement Module (AIM)](https://www.thingiverse.com/thing:1100665)
+- [Craftbot Hidden Hinge for a Front Door](https://www.thingiverse.com/thing:1472094)
+
+## My older mods hosted on thingiverse
+- [Craftbot Camera Mount](https://www.thingiverse.com/thing:2874058)
+- [Craftbot Plus Belt Spacer](https://www.thingiverse.com/thing:2840977)
