@@ -10,7 +10,7 @@ M550 P"Craftbot+"                            ; set printer name
 M669 K1                                      ; select CoreXY mode
 
 ; Network
-M551 P"Battosai13"                           ; set password
+M551 P"Password"                             ; set password
 M552 S1                                      ; enable network
 M586 P0 S1                                   ; enable HTTP
 M586 P1 S0                                   ; disable FTP
