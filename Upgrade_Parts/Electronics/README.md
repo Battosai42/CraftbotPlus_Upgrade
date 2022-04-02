@@ -12,3 +12,10 @@ The USB port of the original controller board is repurposed to mount an external
 A simple filament sensor that only detect the presence of filament is added on the bach sice of the printer. The folded part of the spool holder is used to hide the wire so it cant get entagled in the spool:
 
 ![Filament Sensor](/Images/temporary_filament_sensor.jpg)
+
+## Display
+Since the original display is not working with Reprap Firmware (not just the connector but also voltage levels and differential UART) it could no longer be used. Since Reprap Firmware has an excellent web interface it is quite feasible to use the printer in headless mode (without a dislpay) but every now and then it is nice to see the status of a print or make some adjustments like babystepping on the first layer directly on the printer. From an older project i still had an older MKS TFT32 V3 display laying around and i recently discovered that this is now supported by the [Bigtreetech display firmware](https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware#tft-screen-configuration-and-support-for-rrf) which supports RRF there was no need to get a new display (I anyhow wanted a small display, and not a 5" or 7" display that has become common place in the Duet ecosystem).
+ 
+ ![MKS TFT32 Display](/Images/mks_tft32_1.jpg)
+ 
+ 
