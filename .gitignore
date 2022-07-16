@@ -3,3 +3,12 @@
 
 # KiCad
 Upgrade_Parts/CB_Toolhead_PCB/CB_Toolhead_PCB-backups
+Upgrade_Parts/CB_Toolhead_PCB/fp-info-cache
+Upgrade_Parts/CB_Toolhead_PCB/\#auto_saved_files*
+Upgrade_Parts/CB_Toolhead_PCB/Datasheets
+Upgrade_Parts/BLV_Toolhead_PCB/CB_Toolhead_PCB-backups
+Upgrade_Parts/BLV_Toolhead_PCB/fp-info-cache
+Upgrade_Parts/BLV_Toolhead_PCB/\#auto_saved_files*
+*.bak
+*.zip
+
