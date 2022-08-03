@@ -416,12 +416,12 @@
       ""
     ],
     [
-      "5cb5fcea-f9a6-493c-932c-a095b4caea44",
-      "Accelerometer"
-    ],
-    [
       "8dc85425-6db6-465a-820c-89a88e2e985f",
       "Periphery"
+    ],
+    [
+      "e5a0826c-0960-4af3-a302-020932637c68",
+      "Accelerometer1"
     ]
   ],
   "text_variables": {}
